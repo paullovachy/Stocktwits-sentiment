@@ -7,8 +7,8 @@
 
 
 # create these from the 
-client_key = '929ad641389be415'
-redirect_url = 'https://sphaeric.ai'
+client_key = 'xxxxxxxxxxx'
+redirect_url = 'xxxxxxxxxxx'
 
 
 # ### Create url
@@ -32,7 +32,7 @@ auth_url
 
 
 # identify access token
-access_token = 'a9fdc62bc09b74f449af4bf89b08f2f2c4d9dc2a'
+access_token = 'xxxxxxxxxxx'
 
 
 # In[37]:
