@@ -171,7 +171,7 @@ master_df
 
 # set export
 folder = 'data/'
-file = '{} messags {}.xlsx'.format(stocks_name, today)
+file = '{} messages {}.xlsx'.format(stocks_name, today)
 path = folder + file
 path
 
